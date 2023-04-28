@@ -1,0 +1,25 @@
+.logo {
+  display: flex;
+  align-items: center;
+  text-align: start;
+  font-weight: 500;
+  font-style: normal;
+  font-family: Times New Roman, serif;
+  text-transform: capitalize;
+  font-size: 30px;
+  justify-items: start;
+}
+.menu {
+  display: flex;
+}
+.buttons {
+  text-align: start;
+  align-self: center;
+  display: flex;
+  justify-content: space-evenly;
+  direction: rtl;
+  flex-direction: flex-end;
+}
+.button {
+  padding: 0px 10px;
+}
